@@ -1,0 +1,26 @@
+{
+  "name": "class-05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saja-401-advanced-javascript/class-05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saja-401-advanced-javascript/class-05/issues"
+  },
+  "homepage": "https://github.com/Saja-401-advanced-javascript/class-05#readme",
+  "dependencies": {
+    "@code-fellows/supergoose": "^1.0.1",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0",
+    "mongoose": "^5.8.9"
+  }
+}

@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [submission PR](https://github.com/Saja-401-advanced-javascript/class-05/pull/1)
-- [ci/cd](http://xyz.com) (GitHub Actions)
+- [ci/cd](https://github.com/Saja-401-advanced-javascript/class-05/actions/runs/31643361) 
 
 
 
@@ -25,4 +25,4 @@
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![](img/class-05.jpg)
